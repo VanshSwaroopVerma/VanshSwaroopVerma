@@ -14,25 +14,23 @@
 - And BS Degree in Data science & Application from IIT Madras, India.
 - ⚡ Fun: coffee, hiking, and experimenting with side projects
 
-**Get in touch**
+### Get in touch
 [![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram)](https://www.linkedin.com/in/connect-vanshverma/,mailto:vermavansh1811@gmail.com,https://skillicons.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-vanshverma/) 
-[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vermavansh1811@gmail.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
 ---
 
 
 ### 🔧 Tech stack
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,js,html,css,nodejs,postgres,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,js,html,css,nodejs,postgres,github,mongodb)](https://skillicons.dev)
 <p align="center">
-  <!-- Example badges (replace / add languages & frameworks you use) -->
-  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+  <!-- Example badges (replace / add languages & frameworks you use) 
+    <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://www.javascript.com"><img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>
   <a href="https://nodejs.org/"><img alt="Node" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"></a>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
-  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>-->
+
   <!-- add/remove items -->
 </p>
 
