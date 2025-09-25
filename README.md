@@ -15,13 +15,16 @@
 - ⚡ Fun: coffee, hiking, and experimenting with side projects
 
 **Get in touch**
+[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram)](https://www.linkedin.com/in/connect-vanshverma/,mailto:vermavansh1811@gmail.com,https://skillicons.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-vanshverma/) 
 [![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vermavansh1811@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
 ---
 
+
 ### 🔧 Tech stack
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,js,html,css,nodejs,postgres,github)](https://skillicons.dev)
 <p align="center">
   <!-- Example badges (replace / add languages & frameworks you use) -->
   <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
@@ -38,6 +41,7 @@
 Thanks for visiting — feel free to say hi 👋
 
 </div>
+
 
 <!--
 **VanshSwaroopVerma/VanshSwaroopVerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
