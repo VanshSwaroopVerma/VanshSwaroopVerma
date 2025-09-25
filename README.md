@@ -15,7 +15,10 @@
 - ⚡ Fun: coffee, hiking, and experimenting with side projects
 
 ### Get in touch
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram)](https://www.linkedin.com/in/connect-vanshverma/,mailto:vermavansh1811@gmail.com,https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connect-vanshverma/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:vermavansh1811@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
+
 
 ---
 
