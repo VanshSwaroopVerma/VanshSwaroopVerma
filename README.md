@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Banner (use relative path if in repo /assets/banner.png) -->
-<img src="./assets/banner.png" alt="Banner" style="max-width:1000px; width:100%;"/>
+<img src="./banner.png" alt="Banner" style="max-width:1000px; width:100%;"/>
 
 ### Hi! I'm Vansh  👋
 **Full Stack Developer** • **ML Engineer** • **Data Enthusiast**
